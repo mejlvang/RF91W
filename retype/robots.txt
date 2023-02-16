@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mejlvang.github.io/rf91w/sitemap.xml.gz
